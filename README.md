@@ -15,10 +15,10 @@ Responsive bootstrap navbar. collapse when screen size is small.
 
                     <div class="container-fluid">
                         <div class="navbar-header">
-                            <a class="navbar-brand" href="#"><span style={{fontFamily:'cursive',fontSize:'25px'}}>picto</span></a>
+                            <a class="navbar-brand" href="#"><span style="fontFamily:'cursive',fontSize:'25px'">picto</span></a>
                             <div class="nav-bar-toggle-btn">
-                                <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target" style={{ backgroundColor: 'Transparent', border: '0px' }}>
-                                    <span class="glyphicon glyphicon-menu-hamburger" style={{ color: 'white', fontSize: '20px' }}></span>
+                                <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target" style=" backgroundColor: 'Transparent', border: '0px' ">
+                                    <span class="glyphicon glyphicon-menu-hamburger" style="color: 'white', fontSize: '20px'"></span>
                                 </button>
                             </div>
                         </div>
