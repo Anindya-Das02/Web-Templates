@@ -45,4 +45,17 @@ Responsive bootstrap navbar. collapse when screen size is small.
                 </nav>
             </div>
 ```
+CSS:
+```css
+.nav-bar-toggle-btn{
+  padding-top: 15px;
+  margin-right: 15px;
+  float: right;
+}
+@media (min-width:768px){
+  .nav-bar-toggle-btn{
+    display: none;
+  }
+}
+```
 - - - -
